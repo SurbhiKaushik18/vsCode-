@@ -8,7 +8,4 @@ for row in range(4):
             print(3, end=" ")
         elif col==3:
             print(4, end=" ")
-
-        else:
-            print(end=" ")
     print()
